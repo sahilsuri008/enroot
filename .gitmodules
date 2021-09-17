@@ -6,7 +6,7 @@
 	url = https://anongit.freedesktop.org/git/libbsd.git
 [submodule "deps/musl"]
 	path = deps/musl
-	url = git://git.musl-libc.org/musl
+	url = https://github.com/bminor/musl.git
 [submodule "deps/linux-headers"]
 	path = deps/linux-headers
 	url = https://github.com/sabotage-linux/kernel-headers.git
